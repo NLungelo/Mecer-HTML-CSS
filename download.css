@@ -1,0 +1,26 @@
+.btn-download1{
+    height: 60px;
+    width: 200px;
+    background-color: blue;
+    color: white;
+    border: 0px;
+}
+
+.btn-download2{
+    height: 60px;
+    width: 200px;
+    background-color:white;
+    border-style: solid;
+    border-color: green;
+    border-radius: 30px;
+}
+
+.btn-download3{
+    height: 60px;
+    width: 200px;
+    background-color: white;
+    border-style: solid;
+    background-color: red;
+    border-color: rgba(128, 4, 4, 0.947);
+    border-radius: 10px;
+}
